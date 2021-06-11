@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @niktastik
 - 👀 I’m interested in automating dev tasks and learning new things
-- 🌱 I’m currently learning Angular and advanced Git concepts
+- 💪 I'm strongest with the Microsoft stack, but am also proficient in JavaScript, Angular, and T-SQL
+- 🌱 I’m currently learning about code metrics and code visualization
 - 💞️ I’m looking to collaborate on anything that is not evil
 - 📫 How to reach me: http://twitter.com/niktastik
 
